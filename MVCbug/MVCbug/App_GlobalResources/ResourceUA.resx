@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_2" xml:space="preserve">
+    <value>Незадовільно</value>
+  </data>
+  <data name="_3" xml:space="preserve">
+    <value>Задовільно</value>
+  </data>
+  <data name="_4" xml:space="preserve">
+    <value>Добре</value>
+  </data>
+  <data name="_5" xml:space="preserve">
+    <value>Відмінно</value>
+  </data>
+  <data name="stringCategoryOop" xml:space="preserve">
+    <value>ООП</value>
+  </data>
+  <data name="TitleLabList" xml:space="preserve">
+    <value>Перелік лабораторних робіт</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>Зворотній зв'язок</value>
+  </data>
+  <data name="Forum" xml:space="preserve">
+    <value>Обговорення</value>
+  </data>
+  <data name="Labs" xml:space="preserve">
+    <value>Завдання</value>
+  </data>
+  <data name="Tasks" xml:space="preserve">
+    <value>Узгодження робіт</value>
+  </data>
+  <data name="Students" xml:space="preserve">
+    <value>Студенти</value>
+  </data>
+  <data name="Tests" xml:space="preserve">
+    <value>Тестування</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Додати</value>
+  </data>
+  <data name="AllMessages" xml:space="preserve">
+    <value>Всі повідомленя на дану тему</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Категорія</value>
+  </data>
+  <data name="CreatedDate" xml:space="preserve">
+    <value>Дата створення</value>
+  </data>
+  <data name="CreateMess" xml:space="preserve">
+    <value>Залишити повідомлення</value>
+  </data>
+  <data name="CreateTheme" xml:space="preserve">
+    <value>Створити нову тему в цій категорії</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Видалити</value>
+  </data>
+  <data name="InsertColumnsForMess" xml:space="preserve">
+    <value>Заповніть поля для створення повідомлення</value>
+  </data>
+  <data name="ListThemes" xml:space="preserve">
+    <value>Список тем</value>
+  </data>
+  <data name="LittleText" xml:space="preserve">
+    <value>Загальні відомості</value>
+  </data>
+  <data name="Main" xml:space="preserve">
+    <value>Загальне</value>
+  </data>
+  <data name="MessOnTheme" xml:space="preserve">
+    <value>Повідомлення на тему</value>
+  </data>
+  <data name="NameTheme" xml:space="preserve">
+    <value>Назва теми</value>
+  </data>
+  <data name="NewTheme" xml:space="preserve">
+    <value>Нова тема</value>
+  </data>
+  <data name="Question_answer" xml:space="preserve">
+    <value>Відповісти/Запитати</value>
+  </data>
+  <data name="RegistrationUserPassword" xml:space="preserve">
+    <value>password</value>
+  </data>
+  <data name="SelectCategory" xml:space="preserve">
+    <value>Оберіть категорію</value>
+  </data>
+  <data name="StudentList" xml:space="preserve">
+    <value>Список студентів</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Дія</value>
+  </data>
+  <data name="AddTaskMyself" xml:space="preserve">
+    <value>Додати власне завдання</value>
+  </data>
+  <data name="CategoryName" xml:space="preserve">
+    <value>Назва категорії</value>
+  </data>
+  <data name="ChangeTask" xml:space="preserve">
+    <value>Змінити завдання</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Редагувати</value>
+  </data>
+  <data name="EditWasUnsuccessful" xml:space="preserve">
+    <value>Спроба пристосувати зміни виявилася безуспішною. Будь ласка, виправте помилки і спробуйте ще раз.</value>
+  </data>
+  <data name="GoToLabList" xml:space="preserve">
+    <value>Перейти до списку лабораторних робіт</value>
+  </data>
+  <data name="GoToProgressList" xml:space="preserve">
+    <value>Перейти до результатів тестування</value>
+  </data>
+  <data name="InsertChanges" xml:space="preserve">
+    <value>Введіть необхідні зміни</value>
+  </data>
+  <data name="InsertData" xml:space="preserve">
+    <value>Введіть всі необхідні дані.</value>
+  </data>
+  <data name="InsertMarks" xml:space="preserve">
+    <value>Введіть оцінки</value>
+  </data>
+  <data name="Lab1" xml:space="preserve">
+    <value>Лабораторна робота №1</value>
+  </data>
+  <data name="Lab2" xml:space="preserve">
+    <value>Лабораторна робота №2</value>
+  </data>
+  <data name="Lab3" xml:space="preserve">
+    <value>Лабораторна робота №3</value>
+  </data>
+  <data name="LittleInfo" xml:space="preserve">
+    <value>Короткі відомості</value>
+  </data>
+  <data name="MaxMark" xml:space="preserve">
+    <value>Максимальна оцінка</value>
+  </data>
+  <data name="More" xml:space="preserve">
+    <value>Детально</value>
+  </data>
+  <data name="NameOfThemeTaskIsShort" xml:space="preserve">
+    <value>Назва теми повинна бути більшою ніж 3 символи</value>
+  </data>
+  <data name="PersonalTask" xml:space="preserve">
+    <value>Персональне завдання</value>
+  </data>
+  <data name="Question" xml:space="preserve">
+    <value>Питання</value>
+  </data>
+  <data name="QuestionEditor" xml:space="preserve">
+    <value>Редактор питань</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>Статус</value>
+  </data>
+  <data name="StudentMarks" xml:space="preserve">
+    <value>Оцінки студента</value>
+  </data>
+  <data name="TaskList" xml:space="preserve">
+    <value>Список завдань</value>
+  </data>
+  <data name="Theme" xml:space="preserve">
+    <value>Тема</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Користувач</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Ласкаво просимо до нашого сайту</value>
+  </data>
+  <data name="WrightAnswer" xml:space="preserve">
+    <value>Вірна відповідь</value>
+  </data>
+  <data name="WrongAnswer1" xml:space="preserve">
+    <value>Невірна відповідь №1</value>
+  </data>
+  <data name="WrongAnswer2" xml:space="preserve">
+    <value>Невірна відповідь №2</value>
+  </data>
+  <data name="WrongAnswer3" xml:space="preserve">
+    <value>Невірна відповідь №3</value>
+  </data>
+  <data name="AddToStudentList" xml:space="preserve">
+    <value>Додати себе до списку студентів</value>
+  </data>
+  <data name="AllQuestions" xml:space="preserve">
+    <value>Всього запитань</value>
+  </data>
+  <data name="Audience1" xml:space="preserve">
+    <value>Програмістам різного рівня не залежно від досвіду програмування і віддає перевагу мови програмування</value>
+  </data>
+  <data name="Audience2" xml:space="preserve">
+    <value>Студентам вищих навчальних закладів ІТ-спеціальностей</value>
+  </data>
+  <data name="Audience3" xml:space="preserve">
+    <value>Аналітикам для кращого розуміння процесів розробки ПЗ</value>
+  </data>
+  <data name="CorrectQuestions" xml:space="preserve">
+    <value>Правильних відповідей</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Країна</value>
+  </data>
+  <data name="Education" xml:space="preserve">
+    <value>Освіта</value>
+  </data>
+  <data name="MiddleName" xml:space="preserve">
+    <value>По батькові</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Прізвище</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Контактний телефон</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Посада</value>
+  </data>
+  <data name="Profession" xml:space="preserve">
+    <value>Професія</value>
+  </data>
+  <data name="QuestionVariants" xml:space="preserve">
+    <value>Варіанти відповідей</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Результат</value>
+  </data>
+  <data name="SecondName" xml:space="preserve">
+    <value>Ім'я</value>
+  </data>
+  <data name="StartTestop" xml:space="preserve">
+    <value>Розпочати тест з ООП</value>
+  </data>
+  <data name="StudentProgressList" xml:space="preserve">
+    <value>Успішність студентів які проходять курс навчання</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>Тест</value>
+  </data>
+  <data name="TestResults" xml:space="preserve">
+    <value>Результати тестування</value>
+  </data>
+  <data name="TextTargetAudience" xml:space="preserve">
+    <value>Для того, щоб почати проходження тестів, не обов'язково мати багато досвіду 
+        в проектуванні і програмуванні. Більшість тестів з цієї категорії розбиті на 
+        3 рівні складності, тому кожна людина знайде тест, який максимально йому походить.</value>
+  </data>
+  <data name="TextTestInfo" xml:space="preserve">
+    <value>Ні для кого не секрет, що мови програмування високого рівня набирають все більшої
+        популярності. І звичайно ж основним підходом у розробці програмного забезпечення
+        на високорівневих мовах є об'єктно-орієнтований підхід. Об'єктно-орієнтований підхід
+        дозволяє створювати більш якісні програми, які легко супроводжувати і розвивати.
+        Основи ООП повинен знати кожен програміст, інструментом якого є такі мови програмування
+        як: PHP, Java, C + +, C #, Delphi і так далі.</value>
+  </data>
+  <data name="TitleAudience" xml:space="preserve">
+    <value>Тести даної категорії будуть цікаві наступним людям:</value>
+  </data>
+  <data name="TitleTargetAudience" xml:space="preserve">
+    <value>Цільова аудиторія тестів з ООП</value>
+  </data>
+  <data name="TitleTestInfo" xml:space="preserve">
+    <value>Онлайн тестування з ООП</value>
+  </data>
+  <data name="Town" xml:space="preserve">
+    <value>Місто</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>Рік народження</value>
+  </data>
+  <data name="YourTestCompllete" xml:space="preserve">
+    <value>ваше тестування завершено</value>
+  </data>
+  <data name="AddMyself" xml:space="preserve">
+    <value>Додати свій запис</value>
+  </data>
+  <data name="AddNewLab" xml:space="preserve">
+    <value>Додати нову лабораторну роботу</value>
+  </data>
+  <data name="Authorization" xml:space="preserve">
+    <value>Авторизація</value>
+  </data>
+  <data name="CreateLab" xml:space="preserve">
+    <value>Створення завдання для лабораторної роботи</value>
+  </data>
+  <data name="DeleteStudent" xml:space="preserve">
+    <value>Видалити із списку студентів</value>
+  </data>
+  <data name="DistantLearning" xml:space="preserve">
+    <value>Дистанційне навчання</value>
+  </data>
+  <data name="DLIs" xml:space="preserve">
+    <value>Дистанційне навчання трактують як:</value>
+  </data>
+  <data name="DLIs1" xml:space="preserve">
+    <value>Цілеспрямоване і методично організоване керівництво
+        навчально-пізнавальною діяльністю осіб, що знаходяться на відстані від освітнього
+        центру, яке відбувається завдяки електронним і традиційним засобам зв'язку.</value>
+  </data>
+  <data name="DLIs2" xml:space="preserve">
+    <value>Процес
+        отримання знань і навичок за допомогою спеціалізованого освітнього середовища, яке
+        основане на використанні ІТ, що забезпечує обмін навчальною інформацією на відстані
+        і реалізує систему супроводу і адміністрування учбовим процесом.</value>
+  </data>
+  <data name="DLText" xml:space="preserve">
+    <value>(англ. Distant learning) — Новий засіб реалізації процесу навчання, в основі якого
+        використання сучасних інформаційних і телекомунікаційних технологій, що дозволяють
+        навчатись на відстані без безпосереднього, особистого контакту між викладачем і
+        учнем.</value>
+  </data>
+  <data name="DLText1" xml:space="preserve">
+    <value>Першопочатково дистанційне навчання здіснювалась у формі письмового спілкування,
+        тт. розв'язані завдання відсилались поштою. На сучасному етапі дистанційне навчання
+        здійснюється також за допомогою інтернету, доступом до мережевих баз даних тощо.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Помилка</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value>Вихід</value>
+  </data>
+  <data name="LabList" xml:space="preserve">
+    <value>Список лабораторних робіт</value>
+  </data>
+  <data name="Mess" xml:space="preserve">
+    <value>Повідомлення</value>
+  </data>
+  <data name="SorryQuerrey" xml:space="preserve">
+    <value>Вибачте, сталася помилка при обробці запиту</value>
+  </data>
+  <data name="UpdateLab" xml:space="preserve">
+    <value>Змінити завдання</value>
+  </data>
+  <data name="ViewProgressList" xml:space="preserve">
+    <value>Перегляд успішності</value>
+  </data>
+  <data name="welcom" xml:space="preserve">
+    <value>Ласкаво просимо</value>
+  </data>
+  <data name="AuthorizationInfo" xml:space="preserve">
+    <value>Інформація про обліковий запис</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Змінити пароль</value>
+  </data>
+  <data name="ChangePasswordFailed" xml:space="preserve">
+    <value>Зміна пароля не вдалася. Будь ласка, виправте помилки і повторіть спробу.</value>
+  </data>
+  <data name="ConfirmNewPassword" xml:space="preserve">
+    <value>Підтвердіть новий пароль</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Підтвердіть пароль</value>
+  </data>
+  <data name="CreatingAccount" xml:space="preserve">
+    <value>Створення новий облікового запису</value>
+  </data>
+  <data name="ErrorsInData" xml:space="preserve">
+    <value>Будь ласка, виправте помилки і спробуйте ще раз.</value>
+  </data>
+  <data name="IfYouHaventAccount" xml:space="preserve">
+    <value>Якщо не маєте власного облікового запису, ви маєте можливість</value>
+  </data>
+  <data name="InLenght" xml:space="preserve">
+    <value>символів у довжину.</value>
+  </data>
+  <data name="InsertUsenamePassword" xml:space="preserve">
+    <value>Введіть своє ім'я користувача і пароль</value>
+  </data>
+  <data name="PasswordAreChanged" xml:space="preserve">
+    <value>Ваш пароль був успішно змінений.</value>
+  </data>
+  <data name="PasswordNew" xml:space="preserve">
+    <value>Новий пароль</value>
+  </data>
+  <data name="PasswordOld" xml:space="preserve">
+    <value>Поточний пароль</value>
+  </data>
+  <data name="RegistrationFailed" xml:space="preserve">
+    <value>Створити обліковий запис не вдалося. Будь ласка, виправте помилки і повторіть спробу</value>
+  </data>
+  <data name="RegistrationInformation" xml:space="preserve">
+    <value>Інформація про реєстрацію</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Запам'ятати мене?</value>
+  </data>
+  <data name="TheLenghtOfPAssword" xml:space="preserve">
+    <value>Нові паролі повинні бути не менш</value>
+  </data>
+  <data name="ToRegister" xml:space="preserve">
+    <value>зареєструватися</value>
+  </data>
+  <data name="UseChangePasswordForm" xml:space="preserve">
+    <value>Використовуйте форму нижче, щоб змінити свій пароль</value>
+  </data>
+  <data name="UseNextForms" xml:space="preserve">
+    <value>Використовуйте форму нижче, щоб створити новий обліковий запис</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>Ім'я користувача</value>
+  </data>
+  <data name="OurNews" xml:space="preserve">
+    <value>Новини нашого центру</value>
+  </data>
+  <data name="Events" xml:space="preserve">
+    <value>Події</value>
+  </data>
+  <data name="PasswordOOP" xml:space="preserve">
+    <value>609052290</value>
+  </data>
+  <data name="Status_EnterData" xml:space="preserve">
+    <value>Введіть обов'язкові дані для реєстрації.</value>
+  </data>
+  <data name="Status_Error" xml:space="preserve">
+    <value>Помилка. Заповніть коректно дані, введіть пароль виданий керівником.</value>
+  </data>
+  <data name="AddEvent" xml:space="preserve">
+    <value>Нова подія</value>
+  </data>
+  <data name="AddPhoto" xml:space="preserve">
+    <value>Додати фото</value>
+  </data>
+  <data name="Specificity" xml:space="preserve">
+    <value>Призначення</value>
+  </data>
+</root>

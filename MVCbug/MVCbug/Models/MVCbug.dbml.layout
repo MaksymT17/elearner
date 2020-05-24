@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.125, 12.75" name="MVCbug">
+  <DataContextMoniker Name="/MVCbugDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ed7c0760-ea3e-4475-9a0b-378e6a99f646" absoluteBounds="6.875, 8.625, 2, 1.5891951497395844">
+      <DataClassMoniker Name="/MVCbugDataContext/Theme" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4bbf209b-3f60-4d26-8ff5-1aa7704d002f" absoluteBounds="6.89, 9.085, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0cc27d1-0385-4235-a746-f7ea95bdf20f" absoluteBounds="3.625, 6.375, 2, 2.0822371419270826">
+      <DataClassMoniker Name="/MVCbugDataContext/Test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cd3da1ea-470c-4a4e-be2d-9ff9c9e240e2" absoluteBounds="3.64, 6.835, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06e447c2-d728-4f9b-bf36-97d32272fb8b" absoluteBounds="3.625, 3.875, 2, 1.7535424804687505">
+      <DataClassMoniker Name="/MVCbugDataContext/Task" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7bfbca5-564d-4555-9bfc-b943a1d215b0" absoluteBounds="3.64, 4.335, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b0b9df5b-07f7-4416-84ab-82df01767b45" absoluteBounds="3.125, 8.875, 2, 2.9039737955729166">
+      <DataClassMoniker Name="/MVCbugDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18c6a426-1479-42a5-929d-ed6e042bc8bd" absoluteBounds="3.14, 9.335, 1.9700000000000002, 2.3439737955729165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0dd6d728-69a7-4511-a956-bff95798e6d1" absoluteBounds="0.875, 3.25, 2, 1.096153157552084">
+      <DataClassMoniker Name="/MVCbugDataContext/State" />
+      <nestedChildShapes>
+        <elementListCompartment Id="53e0d9db-93a5-44c7-8f6f-295800a89b47" absoluteBounds="0.89, 3.71, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef107173-2328-4902-b374-2ef63c5087c9" absoluteBounds="9.875, 3.625, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/MVCbugDataContext/Question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="290d39a5-5cca-43d8-847e-25733c73d13e" absoluteBounds="9.89, 4.085, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f476069-402f-48ef-90bd-0bf4ccb19728" absoluteBounds="6.625, 5.75, 2, 2.0822371419270826">
+      <DataClassMoniker Name="/MVCbugDataContext/Message" />
+      <nestedChildShapes>
+        <elementListCompartment Id="17e86ef0-195a-41ae-aad8-c4f09f752323" absoluteBounds="6.64, 6.21, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8083c8da-3846-46dd-a2c8-e6fb51ddd894" absoluteBounds="6.625, 3, 2, 1.5891951497395827">
+      <DataClassMoniker Name="/MVCbugDataContext/Lab" />
+      <nestedChildShapes>
+        <elementListCompartment Id="035ecdc1-f4c2-4af4-8661-f879fb21802a" absoluteBounds="6.64, 3.46, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7c8d3879-f5d3-466c-905e-002da3c7ba32" absoluteBounds="6.125, 10.875, 2, 1.5891951497395844">
+      <DataClassMoniker Name="/MVCbugDataContext/LabResult" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3e3428f-6ccc-4a50-bfa0-094b1c14b06a" absoluteBounds="6.14, 11.335, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ea182aa0-819b-4ecf-9109-aa4a908e79f1" absoluteBounds="6.875, 1.125, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/MVCbugDataContext/EventState" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0f47408d-eb10-47b1-88dd-66b6ee405038" absoluteBounds="6.89, 1.585, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="83a76e10-24d9-4a66-b605-e80a2adf10e2" absoluteBounds="9.625, 0.75, 2, 1.7535424804687503">
+      <DataClassMoniker Name="/MVCbugDataContext/Event" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a810f446-fc9c-4dd9-bcd4-e0752f148ae4" absoluteBounds="9.64, 1.21, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd7b34f9-6f88-421d-9c8a-b35b2f664404" absoluteBounds="3.875, 1.125, 2, 1.2605004882812503">
+      <DataClassMoniker Name="/MVCbugDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8433b4fd-17b9-4674-b984-e49e2b92116b" absoluteBounds="3.89, 1.585, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e91c279f-98a7-4e7f-b95a-e537090c1f07" absoluteBounds="0.875, 5.875, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/MVCbugDataContext/aspnet_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c47ce763-d169-4064-8d9f-863d358733a4" absoluteBounds="0.89, 6.335, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 4.11057657877604); (3.625 : 4.11057657877604)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/State/State_Task" />
+      <nodes>
+        <classShapeMoniker Id="0dd6d728-69a7-4511-a956-bff95798e6d1" />
+        <classShapeMoniker Id="06e447c2-d728-4f9b-bf36-97d32272fb8b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.125 : 11.3269868977865); (6.125 : 11.3269868977865)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/Student/Student_LabResult" />
+      <nodes>
+        <classShapeMoniker Id="b0b9df5b-07f7-4416-84ab-82df01767b45" />
+        <classShapeMoniker Id="7c8d3879-f5d3-466c-905e-002da3c7ba32" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.875 : 1.67307657877604); (9.625 : 1.67307657877604)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/EventState/EventState_Event" />
+      <nodes>
+        <classShapeMoniker Id="ea182aa0-819b-4ecf-9109-aa4a908e79f1" />
+        <classShapeMoniker Id="83a76e10-24d9-4a66-b605-e80a2adf10e2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.78125 : 2.38550048828125); (5.78125 : 6.03125); (6.625 : 6.03125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/Category/Category_Message" />
+      <nodes>
+        <classShapeMoniker Id="cd7b34f9-6f88-421d-9c8a-b35b2f664404" />
+        <classShapeMoniker Id="3f476069-402f-48ef-90bd-0bf4ccb19728" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 2.33457682291667); (6.71875 : 2.33457682291667); (6.71875 : 3)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/Category/Category_Lab" />
+      <nodes>
+        <classShapeMoniker Id="cd7b34f9-6f88-421d-9c8a-b35b2f664404" />
+        <classShapeMoniker Id="8083c8da-3846-46dd-a2c8-e6fb51ddd894" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 7.08394490559896); (3.625 : 7.08394490559896)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/aspnet_User/aspnet_User_Test" />
+      <nodes>
+        <classShapeMoniker Id="e91c279f-98a7-4e7f-b95a-e537090c1f07" />
+        <classShapeMoniker Id="a0cc27d1-0385-4235-a746-f7ea95bdf20f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 5.875); (3.25 : 5.5); (3.25 : 6.00354248046875); (3.625 : 5.62854248046875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MVCbugDataContext/aspnet_User/aspnet_User_Task" />
+      <nodes>
+        <classShapeMoniker Id="e91c279f-98a7-4e7f-b95a-e537090c1f07" />
+        <classShapeMoniker Id="06e447c2-d728-4f9b-bf36-97d32272fb8b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.875 : 7.79288981119792); (1.875 : 10.3269868977865); (3.125 : 10.3269868977865)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/aspnet_User/aspnet_User_Student" />
+      <nodes>
+        <classShapeMoniker Id="e91c279f-98a7-4e7f-b95a-e537090c1f07" />
+        <classShapeMoniker Id="b0b9df5b-07f7-4416-84ab-82df01767b45" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 6.234375); (6.625 : 6.234375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MVCbugDataContext/aspnet_User/aspnet_User_Message" />
+      <nodes>
+        <classShapeMoniker Id="e91c279f-98a7-4e7f-b95a-e537090c1f07" />
+        <classShapeMoniker Id="3f476069-402f-48ef-90bd-0bf4ccb19728" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,78 @@
+<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <%--<link href="../../Content/Site.css" rel="stylesheet" type="text/css" />--%>
+    <link href="../../Content/styles.css" rel="stylesheet" type="text/css" />
+    <link href="../../Content/TestStyle.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="Header" runat="server" />
+</head>
+<body class="inner-body">
+    <div class="header-container">
+        <div class="header-container-inner">
+            <div class="subtitle">
+                <h2>
+                    <div id="logindisplay">
+                        <%if (!HttpContext.Current.User.IsInRole("admin"))
+                          { %>
+                        <% Html.RenderPartial("LogOnUserControl"); %>
+                        <%} %>
+                    </div>
+                </h2>
+            </div>
+        </div>
+    </div>
+    <div class="content-container">
+        <div class="topNav">
+            <div id="logo" align="center">
+                <img src="../../Content/images/logo_dist_courses.gif" /></div>
+            <ul>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Main, "Index", "Home")%></li>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Forum, "ListCategories", "Category")%></li>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Labs, "LabList", "Lab")%></li>
+                    
+                <%if (HttpContext.Current.User.Identity.IsAuthenticated)
+                  { %>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Events, "EventList", "Event")%></li>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Tests, "Info", "Test")%></li>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Students, "StudentList", "Student")%></li>
+                <li>
+                    <%= Html.ActionLink(Resources.ResourceUA.Tasks, "List", "Task")%></li>
+                <%} %>
+            </ul>
+            <div>
+                <h2>
+                </h2>
+            </div>
+        </div>
+        <div class="content-main">
+            <h3>
+            </h3>
+            <body>
+                <div class="page">
+                    <div id="header">
+                        <div id="title">
+                            <h1>
+                            </h1>
+                        </div>
+                    </div>
+                    <div id="main">
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                        <div id="footer" align="center">
+                            <p>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </body>
+</html>

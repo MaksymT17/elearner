@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MVCbug">
+</Property><Property Name="Solution File" Value="D:\LAST DESIGN\MVCbug\MVCbug.sln">
+</Property><Property Name="User Options File" Value="D:\LAST DESIGN\MVCbug\MVCbug.suo">
+</Property><Property Name="Date" Value="1 апреля 2012 г.">
+</Property><Property Name="Time" Value="15:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MVCbug.sln" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MVCbug.suo" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug.suo">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\MVCbug.csproj" Description="Project file successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\MVCbug.csproj">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\MVCbug.csproj.user" Description="Project user file successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\MVCbug.csproj.user">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\App_GlobalResources\ResourceUA.Designer.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\App_GlobalResources\ResourceUA.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\AccountController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\AccountController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\CategoryController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\CategoryController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\EventController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\EventController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\HomeController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\HomeController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\LabController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\LabController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\MessageController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\MessageController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\QuestionController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\QuestionController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\StudentController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\StudentController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\TaskController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\TaskController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Controllers\TestController.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Controllers\TestController.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Core\InputMessageContext.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Core\InputMessageContext.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Core\MVCbugControllerFactory.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Core\MVCbugControllerFactory.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Core\MyClass.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Core\MyClass.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Core\MyContext.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Core\MyContext.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Default.aspx.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\EventRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\EventRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\EventSateRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\EventSateRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\LabRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\LabRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\StudentRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\StudentRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\ThemeRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\ThemeRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Global.asax.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\CategoryRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\CategoryRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\DataManager.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\DataManager.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\MembershipRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\MembershipRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\MessagesRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\MessagesRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\MVCbug.designer.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\MVCbug.designer.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\QuestionRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\QuestionRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\StateRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\StateRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\TaskRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\TaskRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\TestRepository.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\TestRepository.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\MVCbug.dbml" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\MVCbug.dbml">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Models\MVCbug.dbml.layout" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Models\MVCbug.dbml.layout">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\bgBottom.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\bgBottom.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\bgHeader.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\bgHeader.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\bgHeader.jpg" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\bgHeader.jpg">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\bgMain.jpg" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\bgMain.jpg">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\blue.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\blue.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\checklist.jpg" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\checklist.jpg">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\comments.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\comments.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\corner.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\corner.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\dot.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\dot.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\extBtn.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\extBtn.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\kianu.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\kianu.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\logo.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\logo.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\logo_dist_courses.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\logo_dist_courses.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\quote.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\quote.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\quotes.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\quotes.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\student.gif" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\student.gif">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\images\studies.jpg" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\images\studies.jpg">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\styles.css" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\styles.css">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\TestStyle.css" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\TestStyle.css">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Default.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Default.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Global.asax" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Global.asax">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Category\CreateTheme.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Category\CreateTheme.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Category\ListCategories.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Category\ListCategories.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Category\ForumList.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Category\ForumList.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Category\Add.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Category\Add.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Category\ListThemes.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Category\ListThemes.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Home\Feedback.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Home\Feedback.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Lab\Add.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Lab\Add.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Lab\LabList.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Lab\LabList.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Lab\Update.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Lab\Update.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Student\InsertMarks.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Student\InsertMarks.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Student\ProgressList.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Student\ProgressList.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Student\StudentList.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Student\StudentList.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Test\Editor.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Test\Editor.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Test\Info.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Test\Info.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Test\QuestionCycle.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Test\QuestionCycle.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Task\Add.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Task\Add.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Task\Edit.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Task\Edit.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Task\Info.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Task\Info.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Task\List.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Task\List.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Task\Task.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Task\Task.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Test\QuestionNext.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Test\QuestionNext.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Test\TestResult.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Test\TestResult.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Web.config" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Web.config">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Content\Site.css" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Content\Site.css">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\jquery-1.3.2.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\jquery-1.3.2.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\jquery-1.3.2.min.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\jquery-1.3.2.min.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\jquery-1.3.2-vsdoc.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\jquery-1.3.2-vsdoc.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\jquery-1.3.2.min-vsdoc.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\jquery-1.3.2.min-vsdoc.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\MicrosoftAjax.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\MicrosoftAjax.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\MicrosoftAjax.debug.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\MicrosoftAjax.debug.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\MicrosoftMvcAjax.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\MicrosoftMvcAjax.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Scripts\MicrosoftMvcAjax.debug.js" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Scripts\MicrosoftMvcAjax.debug.js">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Account\ChangePassword.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Account\ChangePassword.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Account\ChangePasswordSuccess.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Account\ChangePasswordSuccess.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Account\LogOn.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Account\LogOn.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Account\Register.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Account\Register.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Home\About.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Home\About.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Home\Index.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Home\Index.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Shared\Error.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Shared\Error.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Shared\LogOnUserControl.ascx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Shared\LogOnUserControl.ascx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Shared\Site.Master" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Shared\Site.Master">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Web.config" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Web.config">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\App_Data\MVCdb.mdf" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\App_Data\MVCdb.mdf">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\App_Data\MVCdb_log.ldf" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\App_Data\MVCdb_log.ldf">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\App_GlobalResources\ResourceUA.resx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\App_GlobalResources\ResourceUA.resx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Event\Add.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Event\Add.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Event\AddPicture.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Event\AddPicture.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Event\Edit.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Event\Edit.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Event\EventList.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Event\EventList.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Student\AddPhoto.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Student\AddPhoto.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\Views\Student\Create.aspx" Description="File successfully backed up as D:\LAST DESIGN\MVCbug\Backup1\MVCbug\Views\Student\Create.aspx">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\MVCbug.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MVCbug" Source="MVCbug\MVCbug.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MVCbug.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MVCbug.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MVCbug" Source="MVCbug\MVCbug.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,24 @@
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll.config
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.dll
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.dll
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.pdb
+D:\seriousPrograms\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll.config
+D:\seriousPrograms\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll
+D:\seriousPrograms\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.pdb
+D:\seriousPrograms\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.dll
+D:\seriousPrograms\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.pdb
+D:\seriousPrograms\MVCbug\MVCbug.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\seriousPrograms\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.dll
+D:\seriousPrograms\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.pdb
+D:\Documents\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll.config
+D:\Documents\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.dll
+D:\Documents\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.Tests.pdb
+D:\Documents\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.dll
+D:\Documents\MVCbug\MVCbug.Tests\bin\Debug\MVCbug.pdb
+D:\Documents\MVCbug\MVCbug.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.dll
+D:\Documents\MVCbug\MVCbug.Tests\obj\Debug\MVCbug.Tests.pdb

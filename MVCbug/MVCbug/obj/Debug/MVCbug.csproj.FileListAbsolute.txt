@@ -1,0 +1,25 @@
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug\bin\MVCbug.dll
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug\bin\MVCbug.pdb
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug\obj\Debug\MVCbug.dll
+C:\Users\Макс\Documents\Visual Studio 2008\Projects\MVCbug\MVCbug\obj\Debug\MVCbug.pdb
+D:\seriousPrograms\MVCbug\MVCbug\bin\MVCbug.dll
+D:\seriousPrograms\MVCbug\MVCbug\bin\MVCbug.pdb
+D:\seriousPrograms\MVCbug\MVCbug\obj\Debug\ResolveAssemblyReference.cache
+D:\seriousPrograms\MVCbug\MVCbug\obj\Debug\MVCbug.dll
+D:\seriousPrograms\MVCbug\MVCbug\obj\Debug\MVCbug.pdb
+D:\Documents\MVCbug\MVCbug\bin\MVCbug.dll
+D:\Documents\MVCbug\MVCbug\bin\MVCbug.pdb
+D:\Documents\MVCbug\MVCbug\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\MVCbug\MVCbug\obj\Debug\MVCbug.dll
+D:\Documents\MVCbug\MVCbug\obj\Debug\MVCbug.pdb
+C:\Computer\Work\LAST DESIGN\MVCbug\MVCbug\bin\MVCbug.dll
+C:\Computer\Work\LAST DESIGN\MVCbug\MVCbug\bin\MVCbug.pdb
+C:\Computer\Work\LAST DESIGN\MVCbug\MVCbug\obj\Debug\ResolveAssemblyReference.cache
+C:\Computer\Work\LAST DESIGN\MVCbug\MVCbug\obj\Debug\MVCbug.dll
+C:\Computer\Work\LAST DESIGN\MVCbug\MVCbug\obj\Debug\MVCbug.pdb
+D:\LAST DESIGN\MVCbug\MVCbug\obj\Debug\ResolveAssemblyReference.cache
+D:\LAST DESIGN\MVCbug\MVCbug\obj\Debug\MVCbug.dll
+D:\LAST DESIGN\MVCbug\MVCbug\obj\Debug\MVCbug.pdb
+D:\LAST DESIGN\MVCbug\MVCbug\bin\MVCbug.dll
+D:\LAST DESIGN\MVCbug\MVCbug\bin\MVCbug.pdb
